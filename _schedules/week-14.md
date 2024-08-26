@@ -3,7 +3,7 @@ title: Week 14
 ---
 
 Nov 21
-: [Fluid-fluid interfacial area](https://guoporousmedialab.github.io/HWRS505-405-2023Fall/lecture/)
+: [Fluid-fluid interfacial area](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
   : [](#)
 
 Nov 23
