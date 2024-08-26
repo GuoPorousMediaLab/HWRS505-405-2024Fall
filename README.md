@@ -22,7 +22,7 @@ Missing a page.html & a home.html file in the _layout
 
 <h3>2. Lecture location:</h3>
 
-> [Modern Languages Bldg](https://www.google.com/maps/place/AZPM/@32.2321425,-110.9499052,18.71z/data=!4m6!3m5!1s0x86d671a9fb1d3e09:0x61757677b1166bb8!8m2!3d32.2323371!4d-110.950108!16s%2Fg%2F1tddb8wg?entry=ttu), Rm 213
+> [Modern Languages Bldg](https://www.google.com/maps/place/AZPM/@32.2321425,-110.9499052,18.71z/data=!4m6!3m5!1s0x86d671a9fb1d3e09:0x61757677b1166bb8!8m2!3d32.2323371!4d-110.950108!16s%2Fg%2F1tddb8wg?entry=ttu), Rm 503
 
 
 <h3>3. Instructors:</h3> 
@@ -35,13 +35,12 @@ Missing a page.html & a home.html file in the _layout
 >
 >E-mail:  <a href="mailto:boguo@arizona.edu">boguo@arizona.edu</a>
 > 
->**Sidian Chen** (Co-Instructor)
+>**Jianwen Du** (Teaching Assistant)
 >
->Office: [John W.Harshbarger Bldg](https://www.google.com/maps/place/John+W.Harshbarger+Bldg,+Tucson,+AZ+85719/data=!4m2!3m1!1s0x86d67106e2b5fe29:0x5acbb11fa472c0af?sa=X&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgSEAA&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgTEAI), Rm 316C
+>Office: [John W.Harshbarger Bldg](https://www.google.com/maps/place/John+W.Harshbarger+Bldg,+Tucson,+AZ+85719/data=!4m2!3m1!1s0x86d67106e2b5fe29:0x5acbb11fa472c0af?sa=X&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgSEAA&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgTEAI), Rm 228B
 >
->Phone: <a href="tel:+15203699240">(+1) (520) 369-9240</a>
 >
->E-mail:  <a href="mailto:sidianchen@arizona.edu">sidianchen@arizona.edu</a>
+>E-mail:  <a href="mailto:janewendu@arizona.edu">janewendu@arizona.edu</a>
 
 
 <h3>4. Course Description:</h3> 
