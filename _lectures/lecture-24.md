@@ -1,8 +1,8 @@
 ---
-title: "Lecture #24: Showcase of art of porous media flow"
+title: "Lecture #24: Fluid-fluid interfacial area"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Nov 28, 11:00 am – 12:15 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Nov 21, 11:00 am – 12:15 pm (Bo Guo)
 
-- [Lecture slides: [No available]]
-- [Recording: [No available]]
+- [Lecture slides: [PDF]]() 
+- [Recording: [Video]]()
